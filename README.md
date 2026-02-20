@@ -85,4 +85,5 @@ A convergence plot of Upper Bound (UB) and Lower Bound (LB) is generated.
 - GLPK solver
 ## Convergence plot
 Plot is in a pdf file with name Benders_convergence_plot.pdf
-
+## main file
+Main python script is with name Linear_programming_Benders_decomposition_iterations.py
